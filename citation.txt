@@ -1,0 +1,10 @@
+@article{REPO379,
+    author = "Bai, Chunge and Xiao, Tao and Chen, Yajie and Wang, Haoqian and Zhang, Fang and Gao, Xiang",
+    journal = "IEEE Robotics and Automation Letters",
+    number = "2",
+    pages = "4861--4868",
+    publisher = "IEEE",
+    title = "{Faster-LIO: Lightweight tightly coupled LiDAR-inertial odometry using parallel sparse incremental voxels}",
+    volume = "7",
+    year = "2022"
+}
